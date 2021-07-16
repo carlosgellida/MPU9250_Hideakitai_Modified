@@ -1,4 +1,6 @@
 # MPU9250
+This is a modified version of the library that is able to run in platformio, just small moddifications was done!
+
 Arduino library for [MPU9250](https://www.invensense.com/products/motion-tracking/9-axis/mpu-9250/) Nine-Axis (Gyro + Accelerometer + Compass) MEMS MotionTracking™ Device
 
 This library is based on the [great work](https://github.com/kriswiner/MPU9250) by [kriswiner](https://github.com/kriswiner), and re-writen for the simple usage.
